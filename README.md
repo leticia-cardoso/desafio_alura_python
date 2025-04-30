@@ -12,9 +12,9 @@ A ONE em parceria com a Alura disponibilizaram um curso de programação e duran
 
 ## Requisitos
 
-- Avaliar informações de faturamento, categorias mais vendidas, avaliações dos clientes, produtos mais vendidos e frete médio;
+- Avaliar informações de faturamento, categorias mais vendidas, avaliações dos clientes, produtos mais vendidos e frete médio
 - Criar no mínimo 3 gráficos para visualização
-- Apresentar uma recomendação de qual loja o Senhor João deve vender e o porquê, com base nos dados apresentados.
+- Apresentar uma recomendação de qual loja o Senhor João deve vender e o porquê, com base nos dados apresentados
 
 ## Datasets
 
@@ -22,9 +22,9 @@ Os dados utilizados podem ser encontrados neste [link](https://github.com/alura-
 
 ## Estrutura dos Dados:
 
-- Produto e Categoria: Itens vendidos e suas classificações.
-- Preço e Frete: Valores das vendas e custos associados.
-- Data de Compra e Local: Informações temporais e geográficas.
-- Avaliação da Compra: Feedback dos clientes.
-- Tipo de Pagamento e Parcelas: Métodos utilizados pelos clientes.
-- Coordenadas Geográficas: Localização das transações.
+- Produto e Categoria: Itens vendidos e suas classificações
+- Preço e Frete: Valores das vendas e custos associados
+- Data de Compra e Local: Informações temporais e geográficas
+- Avaliação da Compra: Feedback dos clientes
+- Tipo de Pagamento e Parcelas: Métodos utilizados pelos clientes
+- Coordenadas Geográficas: Localização das transações
